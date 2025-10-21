@@ -89,4 +89,5 @@ Role: Pharmacy Manager • Aspiring Data Analyst
 Focus Areas: SQL • Power BI • Data Cleaning • Business Insights
 
 📫 Contact: LinkedIn : https://www.linkedin.com/in/fawzia-eldesoky-a09620252/
- | Email : fawzia.abdelghany@gmail.com 
+
+  Email : fawzia.abdelghany@gmail.com 
