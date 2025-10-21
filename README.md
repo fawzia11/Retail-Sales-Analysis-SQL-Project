@@ -66,9 +66,7 @@ Run the SQL scripts from the /sql_scripts folder in sequence:
 
 Business analysis queries
 
-Review or export results to the [Uploading SQL practice 1 github.sql…]()
-ults folder.
-
+Review or export results to the [Uploading SQL practice 1 github.sql…]
 🧠 Key Learnings
 
 Through this project, you’ll learn how to:
