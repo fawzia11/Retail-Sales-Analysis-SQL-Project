@@ -1,5 +1,5 @@
 Retail Sales Analysis — SQL Project
-📘 Overview
+
 
 This project demonstrates practical SQL Data Analysis techniques applied to a retail sales dataset.
 It covers every step — from database setup, data cleaning, and exploration to answering real business questions using SQL.
