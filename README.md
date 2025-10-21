@@ -16,25 +16,6 @@ Exploratory Data Analysis (EDA) – Explore and understand data patterns.
 
 Business Insights – Use SQL to answer real-world retail business questions.
 
-🧱 Project Structure
-Folder	Description
-/data	Contains the original Excel or CSV dataset.
-/sql_scripts	Contains all SQL queries used for database setup, cleaning, and analysis.
-/results	Contains SQL query outputs and analysis results.
-README.md	Project documentation and overview (this file).
-🗄️ Database Overview
-
-The retail sales database stores transactional sales data, including:
-
-Transaction details (date, time, ID)
-
-Customer demographics (ID, gender, age)
-
-Product details (category, quantity, price, COGS)
-
-Calculated fields such as total sale amount
-
-
 📊 Business Questions Answered
 
 The analysis focuses on answering key questions like:
